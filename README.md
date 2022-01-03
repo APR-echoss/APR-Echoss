@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aprechos
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning more about roblox plugins and animating
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
