@@ -5,6 +5,10 @@
 - Working on 3 games! 
 - You can see my ROBLOX profile, Echoss (@AProgrammR)
 - Also, my roblox group, Craft GD Studio!
+- I use this GitHub account for Roblox Plugins
+- Popular repos are pinned on my profile
+- I first learned about Lua before any other programming language 
+
 <!---
 Aprechos/Aprechos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
