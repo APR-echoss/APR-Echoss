@@ -7,7 +7,7 @@
 - Also, my roblox group, Craft GD Studio!
 - I use this GitHub account for Roblox Plugins
 - I first learned about Lua before any other programming language. (I learned Python and Java)
-- Currently, I am making a ROBLOX plugin and a ROBLOX game named 'Discover it's land' which is a adventure and survival game!
+- Projects and Roblox games I'm working on: Gun plugin, Roblox war game, Story game, and adventure game
 <!---
 Aprechos/Aprechos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
